@@ -1,0 +1,3 @@
+dependencies:
+  espressif/esp-sr: ^2.1.5
+  waveshare/esp32_s3_cam_ovxxxx: ^1.0.0

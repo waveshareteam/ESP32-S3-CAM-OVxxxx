@@ -1,0 +1,10 @@
+dependencies:
+  espressif/esp_video: ^1.4.1
+  esp_wifi_remote:
+    version: '*'
+  espressif/mdns: ^1.0.3
+  idf: '>=5.3'
+  protocol_examples_common:
+    path: ${IDF_PATH}/examples/common_components/protocol_examples_common
+  espressif/button: ^4.1.4
+  waveshare/custom_io_expander_ch32v003: ^1.0.1

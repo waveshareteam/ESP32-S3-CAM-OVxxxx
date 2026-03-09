@@ -1,0 +1,6 @@
+## IDF Component Manager Manifest File
+dependencies:
+  idf:
+    version: '>=4.1.0'
+  waveshare/esp32_s3_cam_ovxxxx: ^1.0.0
+  espressif/esp-brookesia: ^0.5.0

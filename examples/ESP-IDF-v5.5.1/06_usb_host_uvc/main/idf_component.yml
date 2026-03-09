@@ -1,0 +1,4 @@
+## IDF Component Manager Manifest File
+dependencies:
+  espressif/usb_device_uvc: ^1.2.0
+  waveshare/esp32_s3_cam_ovxxxx: ^1.0.0
